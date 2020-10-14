@@ -1,6 +1,6 @@
-# FVTT Module Template Repo
+# Multiplicative Light Blending
 
-A template repository for easy creation of new modules.
+Changes the blend mode used to blend the lighting layer onto the scene.
 
 ## License
 
